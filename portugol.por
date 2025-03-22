@@ -6,7 +6,7 @@ programa {
     escreva("insira o segundo número: ")
     leia(n2)
 
-    escreva("a soma dos números é: ", n1 + n2)
+    escreva("a subtração dos números é: ", n1 - n2)
 
   }
 }
